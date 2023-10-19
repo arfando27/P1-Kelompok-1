@@ -12,7 +12,7 @@ class binatang {
 }
 public class hewan{
     public static void main(String[] args) {
-       hewan agus = new hewan();
+       binatang agus = new binatang();
 
         agus.nama = "Harimau";
         agus.golongan = "Karnivora";
@@ -22,8 +22,5 @@ public class hewan{
         System.out.println("Jenis Hewan : " +agus.jenis);
         
     }
-    private String nama; //// Buat apa ini bang
-    private String golongan; //// Buat apa ini bang
-    private String jenis; //// Buat apa ini bang
-    
+
 }
