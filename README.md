@@ -55,7 +55,7 @@
 <p></p>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1nomor5_F1B021071.png">
 <p></p>
-<ins>TUGAS F1B021071</ins>
+<b>TUGAS F1B021071</b>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/tugasp1_F1B021071.png">
 <p></p>
 
