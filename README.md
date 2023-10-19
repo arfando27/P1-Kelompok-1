@@ -55,7 +55,7 @@
 <p></p>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1nomor5_F1B021071.png">
 <p></p>
-<p>TUGAS F1B021071</p>
+<h3>TUGAS F1B021071</h3>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/tugasp1_F1B021071.png">
 <p></p>
 <h3>Muhammad Arief Fiqron S</h3>
