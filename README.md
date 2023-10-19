@@ -15,4 +15,6 @@
 <p></p>
 <p>TUGAS F1B019150</p>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/P1tugas.png">
-
+<p>NO 1 F1B021071</p>
+<img src="https://raw.githubusercontent.com/Alrezadwi/P1-Kelompok-1/main/1.png">
+<p></p>
