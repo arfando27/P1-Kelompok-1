@@ -22,8 +22,8 @@ public class hewan{
         System.out.println("Jenis Hewan : " +agus.jenis);
         
     }
-    private String nama;
-    private String golongan;
-    private String jenis;
+    private String nama; //// Buat apa ini bang
+    private String golongan; //// Buat apa ini bang
+    private String jenis; //// Buat apa ini bang
     
 }
