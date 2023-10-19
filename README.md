@@ -14,7 +14,7 @@
 <p>NO 5 F1B019150</p>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1no5_F1B019150.png">
 <p></p>
-<b>TUGAS F1B019150</b>
+<b><ins>TUGAS F1B019150</ins></b>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1tugas_F1B019150.png">
 <p></p>
 
