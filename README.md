@@ -60,4 +60,9 @@
 <p></p>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1nomor5_F1B021071.png">
 <p></p>
+
+<p></p>
+<img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1no1_F1B021072.png">
+<p></p>
+
 <h1>Mana Screenshot yang lain??????????</h1>
