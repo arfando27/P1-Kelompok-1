@@ -21,7 +21,7 @@
 <p></p>
 
 <p>NO 1 F1B019117</p>
-<img src="https://raw.githubusercontent.com/beraskencur/P1-Kelompok-1/main/SCREENSHOOT/P1no1_F1B019117.png">
+<img src="https://raw.githubusercontent.com/Rahmat Agus Firdaus/P1-Kelompok-1/main/SCREENSHOOT/P1no1_F1B019117.png">
 <p></p>
 
 <p>NO 2 F1B019117</p>
