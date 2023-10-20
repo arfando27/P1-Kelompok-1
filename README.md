@@ -36,7 +36,7 @@
 <p></p>
 
 <b><ins>TUGAS F1B019117</ins></b>
-<img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1tugas_F1B019117.png">
+<img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1Tugas_F1B019117.png">
 <p></p>
 
 <h3>Muhammad Alreza Dwinugroho R</h3>
