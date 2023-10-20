@@ -35,6 +35,10 @@
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1no5_F1B019117.png">
 <p></p>
 
+<b><ins>TUGAS F1B019117</ins></b>
+<img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1tugas_F1B019117.png">
+<p></p>
+
 <h3>Muhammad Alreza Dwinugroho R</h3>
 <p>NO 1 F1B021071</p>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1nomor1_F1B021071.png">
