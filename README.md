@@ -78,10 +78,12 @@
 <p></p>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/p1no4_F1B021072.png">
 <p></p>
-
 <p>NO 5 F1B021072</p>
 <p></p>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/p1no5_F1B021072.png">
+<p></p>
+<b><ins>TUGAS F1B021072</ins></b>
+<img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1tugas_F1B021072.png">
 <p></p>
 
 
