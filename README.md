@@ -17,6 +17,9 @@
 <b><ins>TUGAS F1B019150</ins></b>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1tugas_F1B019150.png">
 <p></p>
+<p>UML TUGAS F1B019150</p>
+<img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/UML_TUGAS_F1B019150.png">
+<p></p>
 
 <h3>Rahmat Agus Firdaus</h3>
 <p>NO 1 F1B019117</p>
