@@ -92,5 +92,8 @@
 <b><ins>TUGAS F1B021072</ins></b>
 <img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/P1tugas_F1B021072.png">
 <p></p>
+<p>UML TUGAS F1B0021072</p>
+<img src="https://raw.githubusercontent.com/arfando27/P1-Kelompok-1/main/SCREENSHOOT/UML_TUGAS_F1B0021072.png">
+<p></p>
 
 
